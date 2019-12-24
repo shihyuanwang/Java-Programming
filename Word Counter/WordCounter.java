@@ -37,11 +37,7 @@ public class WordCounter {
 
 
     public LinkedList top20(Hashtable ht_count) {
-        // TODO: Return top 20 words on the songs,
-        // cleaned up removing special characters ",' and in lowercase
-        // For example "A  should be converted to a
-        // (singular and plural are ok to have as duplicates)
-        // Return value can be an array or LinkedList
+        // Return top 20 words,
         // Each element of the array can be a Hashtable with only one element sorted where the highest element is at the top
         // For example:  [{the=20}, {a=10}, {boy=10}, {news=5}.....]
 
