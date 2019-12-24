@@ -1,4 +1,4 @@
-// SHIH-YUAN WANG - Final Project
+// SHIH-YUAN WANG - Currency Exchange
 /*
 Given a file with the USD to <CURR> conversion rate
 Convert X amount of Currency A to Currency B
