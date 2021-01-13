@@ -1,3 +1,1 @@
-# Java-Programming
-
-Some Java Exercises
+# Java Programming Exercises
