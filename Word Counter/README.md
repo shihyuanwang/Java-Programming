@@ -1,3 +1,3 @@
-# Java-Programming
+# Word Counter
 
-Some Java Exercises
+Count the number of words in the Fear.txt file.
