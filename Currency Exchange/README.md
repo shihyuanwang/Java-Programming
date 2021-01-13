@@ -1,6 +1,6 @@
 # Currency Exchange
 
-Given a file with the USD to <Currency> conversion rate, convert X amount of Currency A to Currency B.
+Given a file with the USD to Currency conversion rate, convert X amount of Currency A to Currency B.
   
 • Use of Object oriented programming 
 
